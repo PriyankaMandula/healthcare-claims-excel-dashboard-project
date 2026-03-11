@@ -71,8 +71,7 @@ The Excel dashboard includes the following visualizations:
 
 ## Dashboard Preview
 
-<img width="828" height="664" alt="dashboard_preview" src="https://github.com/user-attachments/assets/d49ba9b1-43c3-4366-83c2-2bbbab499e75" />
-
+<img width="836" height="665" alt="dashboard_preview" src="https://github.com/user-attachments/assets/11c00b1c-5df6-4562-a758-6f09d485b71a" />
 
 
 ## Author
