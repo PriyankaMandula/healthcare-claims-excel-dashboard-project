@@ -65,7 +65,7 @@ The Excel dashboard includes the following visualizations:
 
 * Data Cleaning
 * Exploratory Data Analysis
-* Data Visualization
+* Data visualization
 * Business Intelligence Reporting
 * Dashboard Development
 
