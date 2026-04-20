@@ -63,7 +63,7 @@ The Excel dashboard includes the following visualizations:
 
 ## Skills Demonstrated
 
-* Data Cleaning
+* Data cleaning
 * Exploratory Data Analysis
 * Data visualization
 * Business Intelligence Reporting
