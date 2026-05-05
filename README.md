@@ -1,4 +1,4 @@
-# Healthcare Claims Data Analysis Dashboard (Excel Project)
+# Healthcare Claims Data Analysis Dashboard
 
 ## Project Overview
 
